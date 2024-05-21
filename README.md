@@ -5,7 +5,6 @@
 </div>
 
 ## About Me:
--  😎I am 18 years old
 - 🔭 I am currently working in the systems area
 - 🌱 I'm currently learning about systems analysis and development
 
