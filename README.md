@@ -5,7 +5,9 @@
 </div>
 
 ## About Me:
-- 🔭 I am currently working in the systems area
+- 🎂 I'm 18 years old
+- 🤔 I became interested in the technology area after participating in events in the area and realizing how enjoyable it is to work with innovation
+- 🔭 I'm currently working at the company Sinasc in the systems area
 - 🌱 I'm currently learning about systems analysis and development
 
 ## 🛠️ Languages
