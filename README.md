@@ -13,10 +13,9 @@
 ## 🛠️ Languages and Tools
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" height="90" width="90" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"> 
-  <img align="center" height="75" width="75" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />        
+  <img align="center" height="75" width="75" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />
+  <img align="center" height="90" width="90" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png">         
   <img align="center" height="75" width="75" src="https://skillforge.com/wp-content/uploads/2021/01/Power_BI-300x300.png" />
   <img align="center" height="110" width="110" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
-  <img align="center" height="75" width="75" src="https://miro.medium.com/v2/resize:fit:320/1*5eiYwpgLG_NxGBRLZ4X8cg.png" />
   <img align="center" height="75" width="75" src="https://logodownload.org/wp-content/uploads/2023/04/chatgpt-logo.png"> 
 </div>
