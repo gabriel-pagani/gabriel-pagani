@@ -10,7 +10,7 @@
 - 🔭 I'm currently working at the company Sinasc in the systems area
 - 🌱 I'm currently learning about systems analysis and development
 
-## 🛠️ Languages
+## 🛠️ Languages and Tools
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
