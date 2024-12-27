@@ -13,9 +13,10 @@
 ## 🛠️ Languages and Tools
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" height="75" width="100" src="https://miro.medium.com/v2/resize:fit:866/1*YSMSP7AU8YRjB5Jzdpd1fA.jpeg" /> 
-  <img align="center" height="75" width="75" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1"> 
-  <img align="center" height="75" width="75" src="https://thumbs.dreamstime.com/b/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-278857334.jpg">        
-  <img align="center" height="75" width="75" src="https://media.datacamp.com/legacy/v1714478776/re388xshtgihucfiiavf.png" />
-  <img align="center" height="75" width="75" src="https://images.sftcdn.net/images/t_app-icon-m/p/bf73fec6-96bf-11e6-b05a-00163ed833e7/2301291402/microsoft-excel-Download-Microsoft-Excel.jpg" />
+  <img align="center" height="75" width="75" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"> 
+  <img align="center" height="75" width="75" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" /> 
+  <img align="center" height="75" width="75" src="https://logodownload.org/wp-content/uploads/2023/04/chatgpt-logo.png">        
+  <img align="center" height="75" width="75" src="https://skillforge.com/wp-content/uploads/2021/01/Power_BI-300x300.png" />
+  <img align="center" height="110" width="110" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
+  <img align="center" height="75" width="75" src="https://miro.medium.com/v2/resize:fit:320/1*5eiYwpgLG_NxGBRLZ4X8cg.png" />
 </div>
