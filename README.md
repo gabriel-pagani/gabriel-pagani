@@ -1,16 +1,16 @@
-### Hi there, I'm Gabriel Pagani 👋
+### Olá pessoal, Me chamo Gabriel Pagani 👋
 <div>
   <a href = "mailto:gabrielpaganidesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gpagani_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## About Me:
-- 🎂 I'm 19 years old
-- 👀 I became interested in the technology area after participating in events in the area and realizing how enjoyable it is to work with innovation
-- 🔭 I'm currently working at the company Sinasc in the systems area
-- 🌱 I'm currently learning about systems analysis and development
+## Sobre mim:
+- 🎂 Tenho 19 anos
+- 👀 Me interessei pela área de tecnologia após participar de eventos da área e perceber o quanto é prazeroso trabalhar com inovação
+- 🔭 Atualmente trabalho na empresa Sinasc na área de sistemas
+- 🌱 Atualmente estou aprendendo sobre análise e desenvolvimento de sistemas
 
-## 🛠️ Languages and Tools
+## 🛠️ Linguagens e Ferramentas
 <div>
   <div style="display: inline_block"><br>
   <img align="center" height="75" width="75" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />
