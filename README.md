@@ -1,14 +1,7 @@
 ### Olá, Me chamo Gabriel 👋
 <div>
   <a href = "mailto:gabrielpaganidesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gpagani_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-## Sobre mim:
-- 🎂 Tenho 19 anos
-- 👀 Me interessei pela área de tecnologia após participar de eventos da área e perceber o quanto é prazeroso trabalhar com inovação
-- 🔭 Atualmente trabalho na empresa Sinasc na área de tecnologia
-- 🌱 Atualmente estou aprendendo sobre análise e desenvolvimento de sistemas
 
 ## 🛠️ Linguagens e Ferramentas
 <div>
