@@ -1,15 +1,34 @@
-### Olá, Me chamo Gabriel 👋
-<div>
-  <a href = "mailto:gabrielpaganidesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+# Gabriel | Desenvolvedor Full Stack
 
-## 🛠️ Linguagens e Ferramentas
-<div>
-  <div style="display: inline_block"><br>
-  <img align="center" height="75" width="75" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" />
-  <img align="center" height="75" width="75" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp&w=256">         
-  <img align="center" height="75" width="75" src="https://skillforge.com/wp-content/uploads/2021/01/Power_BI-300x300.png" />
-  <img align="center" height="110" width="110" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" />
-  <img align="center" height="75" width="75" src="https://flet.dev/img/logo.svg">
-  <img align="center" height="75" width="75" src="https://logodownload.org/wp-content/uploads/2023/04/chatgpt-logo.png"> 
-</div>
+Olá! Eu sou o Gabriel, apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente atuo com foco em desenvolvimento web, automações e sistemas personalizados.
+
+---
+
+## Linguagens e Tecnologias
+
+### **Back-end**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Front-end**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Banco de Dados**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpaganis/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
