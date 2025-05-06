@@ -21,6 +21,7 @@ Olá! Eu sou o Gabriel, apaixonado por tecnologia, sempre em busca de novos desa
 ### **Ferramentas & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
