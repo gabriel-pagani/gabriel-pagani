@@ -1,23 +1,35 @@
 {
-    "explorer.compactFolders": false,
-    "editor.fontSize": 16,
-    "terminal.integrated.fontSize": 16,
-    "editor.mouseWheelZoom": true,
-    "terminal.integrated.mouseWheelZoom": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Monokai Night",
-    "code-runner.executorMap": {
-        "python": "python -u"
-    },
-    "code-runner.runInTerminal": true,
-    "code-runner.ignoreSelection": true,
-    "editor.defaultFormatter": "ms-python.autopep8",
-    "editor.formatOnSave": true,
-    "files.autoSave": "off",
-    "editor.minimap.enabled": false,
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmPasteNative": false,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.enableMultiLinePasteWarning": false
+  "explorer.compactFolders": false,
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 18,
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.mouseWheelZoom": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Night",
+  "code-runner.executorMap": {
+    "python": "python -u"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "off",
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmPasteNative": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
