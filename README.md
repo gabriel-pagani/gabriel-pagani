@@ -1,10 +1,10 @@
 # Gabriel | Full Stack Developer
 
-Olá! Eu sou o Gabriel, apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente atuo com foco em desenvolvimento web, automações e sistemas personalizados.
+Hello! I'm Gabriel, passionate about technology, always looking for new challenges and learning. I currently work with a focus on web development, automation and custom systems.
 
 ---
 
-## Linguagens e Tecnologias
+## Languages and Technologies
 
 ### **Back-end**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,18 +15,18 @@ Olá! Eu sou o Gabriel, apaixonado por tecnologia, sempre em busca de novos desa
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Banco de Dados**
+### **Database**
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Ferramentas & DevOps**
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## Contato
+## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpaganis/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
 
