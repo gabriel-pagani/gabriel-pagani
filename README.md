@@ -1,4 +1,4 @@
-# Gabriel | Desenvolvedor Full Stack
+# Gabriel | Full Stack Developer
 
 Olá! Eu sou o Gabriel, apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente atuo com foco em desenvolvimento web, automações e sistemas personalizados.
 
