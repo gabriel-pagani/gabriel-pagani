@@ -25,11 +25,6 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 💡 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
-
----
 ## 🌍 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpaganis/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
