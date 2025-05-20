@@ -26,7 +26,6 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 
 ---
 ## 💡 Featured Projects
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
 
 ---
