@@ -3,7 +3,6 @@
 Hello! I'm Gabriel, passionate about technology, always looking for new challenges and learning. I currently work with a focus on web development, automation and custom systems.
 
 ---
-
 ## 🛠️ Languages and Technologies
 
 ### **Back-end**
@@ -36,5 +35,4 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
 
 ---
-
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
