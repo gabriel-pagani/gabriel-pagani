@@ -1,26 +1,27 @@
 {
-  "explorer.compactFolders": false,
-  "editor.fontSize": 16,
-  "terminal.integrated.fontSize": 18,
-  "editor.mouseWheelZoom": true,
-  "terminal.integrated.mouseWheelZoom": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Monokai Night",
-  "code-runner.executorMap": {
-    "python": "python -u"
-  },
-  "code-runner.runInTerminal": true,
-  "code-runner.ignoreSelection": true,
-  "editor.formatOnSave": true,
-  "files.autoSave": "off",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false,
   "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 16,
+  "editor.mouseWheelZoom": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmPasteNative": false,
+  "explorer.compactFolders": false,
+  "files.autoSave": "off",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.mouseWheelZoom": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
   "[python]": {
     "editor.defaultFormatter": "ms-python.autopep8"
   },
-  "[jsonc]": {
+  "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[html]": {
@@ -31,5 +32,11 @@
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
 }
