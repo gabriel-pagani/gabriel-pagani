@@ -25,7 +25,7 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 💡 Featured Projects
+## 💡 Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=django-deploy&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/django-deploy)
 
