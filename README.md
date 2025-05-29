@@ -27,7 +27,7 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 ---
 ## 💡 Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=django-deploy&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/django-deploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=udwmj-project&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/udwmj-project)
 
 ---
 ## 🌍 Contact
