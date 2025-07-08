@@ -22,6 +22,8 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
