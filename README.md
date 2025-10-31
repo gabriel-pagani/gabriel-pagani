@@ -1,6 +1,6 @@
-# Gabriel | Full Stack Developer
+# Gabriel | Desenvolvedor de BI
 
-Hello! I'm Gabriel, passionate about technology, always looking for new challenges and learning. I currently work with a focus on web development, automation and custom systems.
+Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence).
 
 ---
 ## 🛠️ Languages and Technologies
@@ -21,10 +21,11 @@ Hello! I'm Gabriel, passionate about technology, always looking for new challeng
 ### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 ## 💡 Featured Repos
