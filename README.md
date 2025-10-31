@@ -3,7 +3,7 @@
 Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence).
 
 ---
-## 🛠️ Languages and Technologies
+## 🛠️ Linguagens e Tenologias
 
 ### **Back-end**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Tools & DevOps**
+### **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -28,12 +28,12 @@ Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios
 ![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
 
 ---
-## 💡 Featured Repos
+## 💡 Repositórios em destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=recipedia&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/recipedia)
 
 ---
-## 🌍 Contact
+## 🌍 Contatos
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpaganis/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
 
