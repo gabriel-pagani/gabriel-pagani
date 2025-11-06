@@ -29,7 +29,7 @@ Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios
 
 ---
 ## 💡 Repositórios em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=dashboards-center&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/dashboards-center)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=dashboards-portal&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/dashboards-portal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=intranet-system&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/intranet-system)
 
 ---
