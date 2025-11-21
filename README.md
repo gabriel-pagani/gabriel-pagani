@@ -28,7 +28,7 @@ Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafi
 ![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
 
 ---
-## 💡 Repositórios em destaque
+## 💡 Repositórios em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=power-bi&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/power-bi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=n8n&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/n8n)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=dashboards-portal&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/dashboards-portal)
