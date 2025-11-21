@@ -1,6 +1,6 @@
 # Gabriel | Desenvolvedor de BI
 
-Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence).
+Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence).
 
 ---
 ## 🛠️ Linguagens e Tecnologias
