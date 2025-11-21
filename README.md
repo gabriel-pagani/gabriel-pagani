@@ -32,6 +32,7 @@ Olá! Sou Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=power-bi&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/power-bi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=n8n&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/n8n)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=dashboards-portal&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/dashboards-portal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=automation&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/automation)
 
 ---
 ## 🌍 Contatos
