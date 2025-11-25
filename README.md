@@ -28,10 +28,6 @@ Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafi
 ![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
 
 ---
-## 💡 Repositórios em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-pagani&repo=automation&theme=github_dark_dimmed)](https://github.com/gabriel-pagani/automation)
-
----
 ## 🌍 Contatos
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pagani/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpaganidesouza@gmail.com)
