@@ -1,6 +1,6 @@
 # Gabriel | Desenvolvedor de BI
 
-Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence).
+Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence) e automações.
 
 ---
 ## 🛠️ Linguagens e Tecnologias
@@ -9,6 +9,7 @@ Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafi
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flet](https://img.shields.io/badge/-Flet-EC4899?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Backend**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
