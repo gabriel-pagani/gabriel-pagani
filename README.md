@@ -1,4 +1,4 @@
-# Gabriel | Desenvolvedor de BI
+# Gabriel Pagani
 
 Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence) e automações.
 
