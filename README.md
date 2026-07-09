@@ -1,6 +1,6 @@
 # Gabriel Pagani
 
-Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco no desenvolvimento de BI (Business Intelligence) e automações.
+Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, trabalho com foco em integrações e automações de sistemas.
 
 ---
 ## 🛠️ Linguagens e Tecnologias
