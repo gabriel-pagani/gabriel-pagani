@@ -24,8 +24,6 @@ Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafi
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
 
 ---
