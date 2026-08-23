@@ -23,7 +23,7 @@ Olá! Sou o Gabriel, apaixonado por tecnologia e sempre em busca de novos desafi
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-343541?style=for-the-badge&logo=Claude&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
